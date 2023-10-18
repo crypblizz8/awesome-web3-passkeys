@@ -6,7 +6,10 @@ Projects
 - Turnkey
 - BananaSDK
 - ZeroDev
-
+- Farcaster
+- Dynamic
+- Snowball
+  
 General Resources / Discussions
 - https://1password.com/product/passkeys
 - https://developer.apple.com/passkeys/
