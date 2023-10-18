@@ -1,4 +1,4 @@
-# Awesome Passkeys
+# Awesome Web3 Passkeys
 Awesome Repo for Passkeys and Webauthn for Web3
 
 Projects
