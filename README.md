@@ -39,3 +39,9 @@ Podcasts
 
 - [Web3GalaxyBrain - Forum with James McComish & Peter Ferguson](https://open.spotify.com/episode/64FsYOoGfFj1651EVQhOrT?si=2255dca4fb844f7a)
 - [Web3GalaxyBrain - Jose Aguinaga on Passkeys, MPC and AA Wallets](https://open.spotify.com/episode/1z4HJqXgFlrG4t1FX9CN8x?si=8ae9e8abdc1c459f)
+
+Individuals to Follow
+- Pete
+- Viv
+- Jose
+
