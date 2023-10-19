@@ -1,4 +1,4 @@
-# Awesome Web3 Passkeys
+![repo_thumbnail](https://github.com/crypblizz8/awesome-web3-passkeys/assets/45455218/8f7452cb-eb92-4f67-88b3-468a332410ea)
 
 Awesome Repo for Passkeys and Webauthn for Web3
 
